@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/munichkc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=munichkc&show_icons=false&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munichkc&layout=compact&langs_count=7&theme=omni"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=munichkc&show_icons=false&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munichkc&layout=compact&langs_count=7&theme=omni"/>
 </div>
   
   ##
