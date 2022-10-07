@@ -1,6 +1,7 @@
-- 👋 Hello, Devs! Meu nome é Monique Kelly
-- 🖌️ Trabalho como Designer Visual
-- 🤓 Cursando Desenvolvimento Web / Programador Web
+Hello 👋 I'm Monique!
+
+I'm Front-End Developer and Visual Designer.
+
 
 ##
 
