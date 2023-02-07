@@ -1,6 +1,12 @@
-Hello 👋 I'm Monique!
+Olá 👋 Me chamo Monique Kelly!
+Sou uma profissional multidisciplinar criativa em transição de carreira com experiência e formação em desenvolvimento web, design e ensino. 
+Tenho conhecimento em Adobe Photoshop, InDesign, Illustrator, Wix,  JavaScript, CSS, HTML, Web Design, JQuery, CSS, Bootstrap, Git, Github, MySQL, Figma, PHP, Design UX/UI.
 
-I'm Front-End Developer and Visual Designer.
+Sou apaixonada pelo universo criativo da tecnologia e do design - amo criar, projetar, observar e produzir.
+Sempre penso na criatividade como um elemento de bem viver, de explorar, de construir e reconstruir... é a soma de ideias que me move.
+
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas, tenho certificação em Programador Web, metodologias ágeis, produtividade e gestão do tempo. 
+
 
 
 ##
