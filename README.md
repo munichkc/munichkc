@@ -1,7 +1,7 @@
 Olá 👋 
 
 
-Sou uma profissional multidisciplinar com conhecimento e experiência em desenvolvimento web, design e ensino. Com um conhecimento sólido em softwares de criação e edição, linguagem de programação e frameworks, minha paixão pelo universo criativo da tecnologia e do design me motiva a criar soluções inovadoras e funcionais.
+Sou uma profissional multidisciplinar com conhecimento e experiência em desenvolvimento web, design e ensino. Com conhecimento em softwares de criação e edição, linguagem de programação e frameworks, minha paixão pelo universo criativo da tecnologia e do design me motiva a criar soluções inovadoras e funcionais.
 
 Acredito que a criatividade é um elemento essencial para uma vida plena e equilibrada, capaz de impulsionar ideias inovadoras e gerar mudanças positivas. Minha trajetória como profissional criativa me permite combinar habilidades técnicas e artísticas, contribuindo para projetos de desenvolvimento e design em diversas áreas.
 
