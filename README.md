@@ -1,12 +1,12 @@
-Olá 👋 
+Olá! 👋
 
+Sou uma profissional apaixonada por explorar o potencial criativo da tecnologia e do design. Com experiência em design visual, desenvolvimento web e ensino, meu objetivo principal é criar soluções funcionais e envolventes, sempre priorizando a criação de uma experiência do usuário excepcional em cada projeto.
 
-Sou uma profissional multidisciplinar com conhecimento e experiência em desenvolvimento web, design e ensino. Com conhecimento em softwares de criação e edição, linguagem de programação e frameworks, minha paixão pelo universo criativo da tecnologia e do design me motiva a criar soluções inovadoras e funcionais.
+Acredito que o design impacta diretamente a forma como as pessoas interagem e se envolvem com a tecnologia. Por isso, busco constantemente aprimorar minhas habilidades para entregar soluções que sejam intuitivas, eficientes e esteticamente agradáveis.
 
-Acredito que a criatividade é um elemento essencial para uma vida plena e equilibrada, capaz de impulsionar ideias inovadoras e gerar mudanças positivas. Minha trajetória como profissional criativa me permite combinar habilidades técnicas e artísticas, contribuindo para projetos de desenvolvimento e design em diversas áreas.
+Com uma abordagem multidisciplinar, integro minha experiência em design visual, desenvolvimento web e conhecimentos em UX Design para criar experiências únicas e memoráveis para os usuários.
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e possuo certificação em Programação Web, metodologias ágeis, produtividade e gestão do tempo. Sou movida pelo desafio de buscar novos conhecimentos e aprimorar minhas habilidades, sempre em busca de projetos que possam agregar valor e impactar positivamente a vida das pessoas.
-
+Let's code and design! 💻🎨
 
 ##
 
