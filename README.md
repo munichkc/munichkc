@@ -40,18 +40,25 @@ Let's code and design! 💻🎨
 
   ##
   
-  <div align="center">
+  <!-- Certifique-se de incluir o link para o Font Awesome no <head> do seu arquivo HTML -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-cNGJFPzaiV8XWE4n1j8UpLybPYzCFawf4obezjBrn+swx9TPD7v6X1MkLCf7Q48Hm4Q9yT9gruDN6UqmrzHAg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<!-- No README do GitHub -->
+<div align="center">
   <a href="https://www.linkedin.com/in/moniquekellycunha/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/muniqquek" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.behance.net/moniquekelly" target="_blank">
-    <img src="https://aleen42.github.io/badges/src/behance.svg" height="30" width="90" target="_blank" alt="Behance">
+    <img alt="Behance" src="https://img.shields.io/badge/-Behance-%230055FF?style=for-the-badge&logo=behance&logoColor=white">
   </a>
   <a href="mailto:munichkdev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="SEU_LINK_PARA_O_DISCORD" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
 
