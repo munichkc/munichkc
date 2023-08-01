@@ -62,4 +62,3 @@ Let's code and design! 💻🎨
   </a>
 </div>
 
-[Snake animation](https://github.com/munichkc/munichkc/blob/output/github-contribution-grid-snake.svg)
