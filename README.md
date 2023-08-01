@@ -57,7 +57,7 @@ Let's code and design! 💻🎨
   <a href="mailto:munichkdev@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="SEU_LINK_PARA_O_DISCORD" target="_blank">
+  <a href="https://discord.gg/8s6fSfDQ" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
