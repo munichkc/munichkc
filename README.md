@@ -1,10 +1,12 @@
-Olá! 👋
+## Hello! 👋
 
-Sou uma profissional apaixonada por explorar o potencial criativo da tecnologia e do design. Com experiência em design visual, desenvolvimento web e ensino, meu objetivo principal é criar soluções funcionais e envolventes, sempre priorizando a criação de uma experiência do usuário excepcional em cada projeto.
+I'm a professional passionate about exploring the creative potential of technology and design. My experience in visual design, web development, and teaching enables me to create functional and engaging solutions, always prioritizing the delivery of an exceptional user experience in each project.
 
-Acredito que o design impacta diretamente a forma como as pessoas interagem e se envolvem com a tecnologia. Por isso, busco constantemente aprimorar minhas habilidades para entregar soluções que sejam intuitivas, eficientes e esteticamente agradáveis.
+🎨 Design: I believe that design has a direct impact on how people interact and engage with technology. I continuously strive to improve my skills to deliver solutions that are intuitive, efficient, and aesthetically pleasing.
 
-Com uma abordagem multidisciplinar, integro minha experiência em design visual, desenvolvimento web e conhecimentos em UX Design para criar experiências únicas e memoráveis para os usuários.
+💻 Web Development: I have solid knowledge of HTML, CSS, and JavaScript, allowing me to create responsive and interactive interfaces for various devices.
+
+🚀 UX Design: With a multidisciplinary approach, I integrate my experience in visual design and web development to create unique and memorable experiences for users.
 
 Let's code and design! 💻🎨
 
