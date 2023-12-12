@@ -4,10 +4,10 @@ I'm a passionate professional dedicated to exploring the creative potential of t
 
 🌟 Mentor in Technology and Career Development at Generation Brasil:
 
-    Provided personalized guidance to individuals in the technology sector.
-    Shared technical expertise and effective strategies for career advancement.
-    Offered practical advice to boost professional growth.
-    Committed to fostering diversity, inclusion, and innovation in the tech industry.
+ Provided personalized guidance to individuals in the technology sector.
+ Shared technical expertise and effective strategies for career advancement.
+ Offered practical advice to boost professional growth.
+ Committed to fostering diversity, inclusion, and innovation in the tech industry.
 
 🎨 Design: I firmly believe that design directly influences how individuals interact and engage with technology. I continuously enhance my skills to provide intuitive, efficient, and aesthetically pleasing solutions.
 
