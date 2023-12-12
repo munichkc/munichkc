@@ -1,15 +1,21 @@
 ## Hello! 👋
 
-I'm a professional passionate about exploring the creative potential of technology and design. My experience in visual design, web development, and teaching enables me to create functional and engaging solutions, always prioritizing the delivery of an exceptional user experience in each project.
+I'm a passionate professional dedicated to exploring the creative potential of technology and design. With a background in mentoring, visual design, web development, and teaching, I craft functional and engaging solutions, always prioritizing the delivery of an exceptional user experience in every project.
 
-🎨 Design: I believe that design has a direct impact on how people interact and engage with technology. I continuously strive to improve my skills to deliver solutions that are intuitive, efficient, and aesthetically pleasing.
+🌟 Mentor in Technology and Career Development at Generation Brasil:
 
-💻 Web Development: I have solid knowledge of HTML, CSS, and JavaScript, allowing me to create responsive and interactive interfaces for various devices.
+    Provided personalized guidance to individuals in the technology sector.
+    Shared technical expertise and effective strategies for career advancement.
+    Offered practical advice to boost professional growth.
+    Committed to fostering diversity, inclusion, and innovation in the tech industry.
 
-🚀 UX Design: With a multidisciplinary approach, I integrate my experience in visual design and web development to create unique and memorable experiences for users.
+🎨 Design: I firmly believe that design directly influences how individuals interact and engage with technology. I continuously enhance my skills to provide intuitive, efficient, and aesthetically pleasing solutions.
+
+💻 Web Development: Proficient in HTML, CSS, and JavaScript, I create responsive and interactive interfaces for diverse devices.
+
+🚀 UX Design: Adopting a multidisciplinary approach, I integrate my expertise in visual design and web development to create unique and memorable user experiences.
 
 Let's code and design! 💻🎨
-
 ##
 
 <!-- No README do GitHub -->
