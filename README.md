@@ -1,23 +1,11 @@
 🚀Com formação em Programação Web, adquiri uma base sólida em HTML, CSS e JavaScript. 
+
 Contudo, busco continuamente aprimorar minhas habilidades. 
+
 Atualmente, estou focada em aprimorar meus conhecimentos em Design UX/UI, Design de Interface e na linguagem de programação Python.
 ##
 
 <!-- No README do GitHub -->
-<div align="center">
-  <h1>Estatísticas do GitHub</h1>
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=munichkc&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munichkc&layout=compact&langs_count=7&theme=radical" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
   
   ##
   
