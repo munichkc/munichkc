@@ -1,9 +1,10 @@
-🚀Com formação em Programação Web, adquiri uma base sólida em HTML, CSS e JavaScript. 
+## Desenvolvedora Web Front-End | Estudante de UX/UI Design, Design de Interface e Python
 
-Contudo, busco continuamente aprimorar minhas habilidades. 
+### Sobre mim 🚀
 
-Atualmente, estou focada em aprimorar meus conhecimentos em Design UX/UI, Design de Interface e na linguagem de programação Python.
-##
+- **Desenvolvedora Web Front-End:** HTML, CSS e JavaScript, focada em criar experiências de usuário responsivas e interativas.
+- **Estudante de UX/UI Design e Design de Interface:** Atualmente aprimorando habilidades em design centrado no usuário para melhorar a usabilidade e o apelo visual dos aplicativos web.
+- **Aprendendo Python:** Expandindo conhecimentos em programação back-end e automação com Python.
 
 <!-- No README do GitHub -->
   
