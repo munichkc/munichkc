@@ -1,21 +1,6 @@
-## Hello! 👋
-
-I'm a passionate professional dedicated to exploring the creative potential of technology and design. With a background in mentoring, visual design, web development, and teaching, I craft functional and engaging solutions, always prioritizing the delivery of an exceptional user experience in every project.
-
-🌟 Mentor in Technology and Career Development at Generation Brasil:
-
- Provided personalized guidance to individuals in the technology sector.
- Shared technical expertise and effective strategies for career advancement.
- Offered practical advice to boost professional growth.
- Committed to fostering diversity, inclusion, and innovation in the tech industry.
-
-🎨 Design: I firmly believe that design directly influences how individuals interact and engage with technology. I continuously enhance my skills to provide intuitive, efficient, and aesthetically pleasing solutions.
-
-💻 Web Development: Proficient in HTML, CSS, and JavaScript, I create responsive and interactive interfaces for diverse devices.
-
-🚀 UX Design: Adopting a multidisciplinary approach, I integrate my expertise in visual design and web development to create unique and memorable user experiences.
-
-Let's code and design! 💻🎨
+🚀Com formação em Programação Web, adquiri uma base sólida em HTML, CSS e JavaScript. 
+Contudo, busco continuamente aprimorar minhas habilidades. 
+Atualmente, estou focada em aprimorar meus conhecimentos em Design UX/UI, Design de Interface e na linguagem de programação Python.
 ##
 
 <!-- No README do GitHub -->
